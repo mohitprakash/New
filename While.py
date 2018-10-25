@@ -103,11 +103,21 @@ s1 = Student(200,'Bunny')
 s1.talk()
 """
 
-s=input("Enter String")
-count=0
-for i in s:
-    if
+s = Student(120,'Mohit')
+print(s.name)
+print(s.rollno)
 
+s1 = Student(200,'Bunny')
+s1.talk()
+"""
+
+s = Student(120,'Mohit')
+print(s.name)
+print(s.rollno)
+
+s1 = Student(200,'Bunny')
+s1.talk()
+"""
 
 
 
